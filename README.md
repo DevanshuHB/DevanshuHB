@@ -26,8 +26,8 @@ I'm a passionate **Second-Year Engineering Student** at [SIES Graduate School of
 
 ### 📫 Let's Connect
 
-- [DevanshuHB](https://github.com/DevanshuHB)
-- [Devanshu Bansode](https://www.linkedin.com/in/devanshu-bansode-bb6a84320)
+- [GitHub](https://github.com/DevanshuHB)
+- [Linkedin](https://www.linkedin.com/in/devanshu-bansode-bb6a84320)
 - Email: devanshu.bansode06@gmail.com
 
 ---
