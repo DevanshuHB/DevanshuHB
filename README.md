@@ -1,39 +1,84 @@
-# Hi, I'm Devanshu Bansode 👋
+# Hi, I’m Devanshu Bansode 👋
 
-I'm a passionate **Second-Year Engineering Student** at [SIES Graduate School of Technology (SIES GST)](https://siesgst.edu.in/), Mumbai University (autonomous), diving deep into the world of **Cybersecurity** and **Programming**.
+🎓 **Second-Year Engineering Student (B.E. CSE – IoT & Cybersecurity)**  
+📍 SIES Graduate School of Technology (Autonomous, Mumbai University)
 
----
-
-### 🚀 About Me
-
-- 🔐 Cybersecurity enthusiast with a focus on **password cracking**, **Wi-Fi hacking**, and **data access** techniques — been hooked since childhood.
-- 🧑‍💻 Strong in **Python** and growing my skills in **Java** and **C programming**.
-- 📚 Currently sharpening my foundations with courses and practical projects, including a **Java Swing scientific calculator and Password Vault**.
-- 🎯 Planning to pursue certifications like **CEH** and **CompTIA Security+.**
-- 💡 Always eager to participate in **hackathons** and hands-on cybersecurity projects.
-- 🏊‍♂️ Outside coding, I enjoy swimming, sports, and binge-watching thrilling mystery series.
+I’m deeply interested in **cybersecurity and offensive security**, with hands-on experience in tools, real-world simulations, and project-based learning. I focus on understanding **how systems break**, not just how they’re built.
 
 ---
 
-### 💻 Projects & Skills
+## 🔐 About Me
 
-- **Password Vault App** — built with Python, MySQL, and Tkinter featuring encryption, GUI, and login security.
-- **Scientific Calculator** in Java with toggle modes and memory functions.
-- Comfortable with **algorithmic problem-solving** and **output-based programming**.
-- Experienced with cybersecurity tools: Metasploit, SQLmap, Aircrack-ng.
-
----
-
-### 📫 Let's Connect
-
-- [GitHub](https://github.com/DevanshuHB)
-- [Linkedin](https://www.linkedin.com/in/devanshu-bansode-bb6a84320)
-- Email: devanshu.bansode06@gmail.com
+- Cybersecurity enthusiast with long-standing interest in **password security, Wi-Fi attacks, and unauthorized data access**
+- Strong programming foundation with **Python** as my primary language
+- Growing expertise in **Java**, **C**, and secure application development
+- Hands-on learner — prefer **CTFs, labs, and real attack scenarios** over theory
+- Actively preparing for **CEH** and **CompTIA Security+**
+- Interested in **VAPT, API security, and offensive security workflows**
 
 ---
 
-Thanks for visiting! Feel free to explore my repos and reach out if you want to collaborate or geek out on cybersecurity and coding.
+## 🛠️ Technical Skills
+
+### 🧑‍💻 Programming
+- Python (Strong)
+- Java
+- C
+- SQL (MySQL)
+
+### 🔍 Cybersecurity
+- Web & API Penetration Testing (Basics → Intermediate)
+- OWASP Top 10
+- Authentication & Authorization Testing
+- Input Validation & Injection Flaws
+- Basic Wi-Fi Security Concepts
+
+### 🧰 Tools
+- Burp Suite  
+- Postman  
+- Metasploit  
+- SQLmap  
+- Aircrack-ng  
+- Nmap  
+- Git & GitHub  
 
 ---
 
-*“The best way to learn hacking is by hacking your own knowledge every day.”* 💥
+## 🧪 Projects
+
+### 🔐 Password Vault Application
+- Built using **Python, Tkinter, and MySQL**
+- Encrypted authentication system
+- Secure credential storage
+- Focus on GUI security and data protection
+
+### 🧮 Scientific Calculator (Java)
+- Java Swing–based application
+- Basic & Scientific modes
+- Memory functions (ANS, input handling)
+- Clean logic and UI separation
+
+### 📡 Wi-Fi Intrusion Detection System (Wi-Patrol) *(Ongoing)*
+- Python-based monitoring system
+- Focused on detecting unauthorized Wi-Fi activity
+- Designed as a cybersecurity-focused academic project
+
+---
+
+## 🎯 Goals
+- Build strong fundamentals in **offensive security**
+- Gain real-world exposure through **projects, internships, and hackathons**
+- Transition into **VAPT / Application Security roles**
+- Continuously improve documentation and reporting skills
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 GitHub: https://github.com/DevanshuHB  
+- 🔗 LinkedIn: https://www.linkedin.com/in/devanshu-bansode  
+- 📧 Email: devanshu.bansode06@gmail.com  
+
+---
+
+> *“Learning security means understanding failure before success.”*
