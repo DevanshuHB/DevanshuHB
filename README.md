@@ -1,7 +1,7 @@
 # Hi, I’m Devanshu Bansode 👋
 
 🎓 **Second-Year Engineering Student (B.E. CSE – IoT & Cybersecurity)**  
-📍 SIES Graduate School of Technology (Autonomous, Mumbai University)
+📍 [SIES Graduate School of Technology](https://siesgst.edu.in/) (Autonomous, Mumbai University)
 
 I’m deeply interested in **cybersecurity and offensive security**, with hands-on experience in tools, real-world simulations, and project-based learning. I focus on understanding **how systems break**, not just how they’re built.
 
@@ -75,8 +75,8 @@ I’m deeply interested in **cybersecurity and offensive security**, with hands-
 
 ## 📫 Connect With Me
 
-- 🔗 GitHub: https://github.com/DevanshuHB  
-- 🔗 LinkedIn: https://www.linkedin.com/in/devanshu-bansode  
+- 🔗 [GitHub](https://github.com/DevanshuHB)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/devanshu-bansode)  
 - 📧 Email: devanshu.bansode06@gmail.com  
 
 ---
